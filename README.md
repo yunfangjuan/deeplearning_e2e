@@ -1,4 +1,4 @@
-#Deep Learning End To End
+# Deep Learning End To End
 
   This repo showcases various deep learning algorithms through real world examples and datasets. Our goal is to help people 
   gain understanding on how to train specific models from data prepartion to evaluation. 
