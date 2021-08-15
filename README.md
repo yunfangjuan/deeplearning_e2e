@@ -11,3 +11,4 @@
 
 # Current E2E Notebooks
   * [Sentiment Analysis with Transformer using IMDB 50K dataset](https://github.com/yunfangjuan/deeplearning_e2e/blob/main/Sentiment_Analysis_with_Transformer.ipynb)
+  * [Sentiment Analysis with Pretrained BERT model](https://github.com/yunfangjuan/deeplearning_e2e/blob/main/Sentiment_Analysis_with_Pretrained_Model.ipynb)
